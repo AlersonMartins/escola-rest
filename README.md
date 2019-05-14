@@ -1,2 +1,0 @@
-# escola-rest
-escola-rest
